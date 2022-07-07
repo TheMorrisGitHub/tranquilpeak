@@ -1,0 +1,3 @@
+[submodule "themes/peaktheme"]
+	path = themes/peaktheme
+	url = https://github.com/TheMorrisGitHub/hugo-tranquilpeak-theme.git
